@@ -30,7 +30,5 @@ largestNum : function (arr) {
     }
     return largest;
 }
-
-
 }
 
